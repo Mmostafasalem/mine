@@ -1,5 +1,5 @@
-﻿,Less than 180 days,,Between 180 and 270 days (10% acruals),,Between 270 and 360 days (50% acruals),,More than 360 days (100% acruals),,Total,,previous month total,
-,Acruals <180,Stock <180,Acruals>180,Stock>180,Acruals>270,Stock>270 ,Acruals>360,Stock>360,TotalAcruals,totalStock ,prevAcruals,prevStock 
+﻿category,Less than 180 days,Less than 180 days,Between 180 and 270 days (10% acruals),Between 180 and 270 days (10% acruals),Between 270 and 360 days (50% acruals),Between 270 and 360 days (50% acruals),More than 360 days (100% acruals),More than 360 days (100% acruals),Total,Total,previous month total,previous month total
+category,Acruals <180,Stock <180,Acruals>180,Stock>180,Acruals>270,Stock>270 ,Acruals>360,Stock>360,TotalAcruals,totalStock ,prevAcruals,prevStock 
 A,0,462971.35,282.283,2822.83,0,0,0,0,282.283,465794.18,1625.351,666164.87
 B,0,488057.2,2017.824,20178.24,1503.71,3007.42,40485.09,40485.09,44006.624,551727.95,42834.204,679737.62
 C,0,184752.76,2850.734,28507.34,11228.8,22457.6,236.82,236.82,14316.354,235954.52,16211.023,243545.4

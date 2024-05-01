@@ -1,10 +1,9 @@
-﻿,Less than 180 days,,Between 180 and 270 days (10% acruals),,Between 270 and 360 days (50% acruals),,More than 360 days (100% acruals),,Total,,previous month total,
-,Acruals <180,Stock <180,Acruals>180,Stock>180,Acruals>270,Stock>270 ,Acruals>360,Stock>360,TotalAcruals,totalStock ,prevAcruals,prevStock 
-A,0,462971.35,282.283,2822.83,0,0,0,0,282.283,465794.18,1625.351,666164.87
+﻿category,Less than 180 days,Less than 180 days,Between 180 and 270 days (10% acruals),Between 180 and 270 days (10% acruals),Between 270 and 360 days (50% acruals),Between 270 and 360 days (50% acruals),More than 360 days (100% acruals),More than 360 days (100% acruals),Total,Total,previous month total,previous month total
+category,Acruals <180,Stock <180,Acruals>180,Stock>180,Acruals>270,Stock>270 ,Acruals>360,Stock>360,TotalAcruals,totalStock ,prevAcruals,prevStock 
 B,0,488057.2,2017.824,20178.24,1503.71,3007.42,40485.09,40485.09,44006.624,551727.95,42834.204,679737.62
 C,0,184752.76,2850.734,28507.34,11228.8,22457.6,236.82,236.82,14316.354,235954.52,16211.023,243545.4
 D,0,119092.83,2012.937,20129.37,12271.53,24543.06,33938.78,,48223.247,197704.04,45428.937,227272.97
-Total 1,0,1254874.14,7163.778,71637.78,25004.04,50008.08,74660.69,40721.91,106828.508,1451180.69,106099.515,1816720.86
+Total 1,0,791902.79,6881.495,68814.95,25004.04,50008.08,74660.69,40721.91,106546.225,985386.51,106099.515,1816720.86
 ACC,0,699.37,28.44,284.4,0,0,25311.41,25311.41,25339.85,26295.18,26844.405,29157.42
 atsarginiai lipdukai,0,0,0,0,0,0,3532.94,3532.94,3532.94,3532.94,2911.55,3532.94
 Eco4,0,583.72,0,0,5279.525,10559.05,14171.85,14171.85,19451.375,25314.62,20788.535,27438.61
